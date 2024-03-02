@@ -1,0 +1,10 @@
+E:\OOPT\OOPT\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\OOPT\OOPT\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\OOPT\OOPT\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\OOPT\OOPT\Lab1\Lab1\obj\Debug\Lab1.MainForm.resources
