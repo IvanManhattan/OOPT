@@ -70,5 +70,8 @@ namespace Lab1 {
             g.DrawRectangle(backPen, backRect);
         }
         public abstract void InitFrame();
+
+        public abstract void CheckCollision();
+
     }
 }

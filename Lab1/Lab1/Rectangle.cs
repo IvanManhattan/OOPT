@@ -55,8 +55,18 @@ namespace Lab1 {
         public sealed override void InitFrame() {
             BorderWidth = _width;
             BorderHeight = _height;
+            CheckCollision();
             FrameMainPoint = new Point(_x, _y);
             MainPoint = FrameMainPoint;
+        }
+
+        public override void CheckCollision() {
+            if (_x + _width >= MainForm.PictureBoxWidth) {
+                _x = MainForm.PictureBoxWidth - _width - BorderThickness / 2;
+            }
+            if (_y + _height >= MainForm.PictureBoxHeight) {
+                _y = MainForm.PictureBoxHeight - _height - BorderThickness / 2;
+            }
         }
     }
     

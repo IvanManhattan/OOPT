@@ -55,6 +55,7 @@ namespace Lab1
       this.MaximizeBox = false;
       this.MinimizeBox = false;
       this.Name = "MainForm";
+      this.Text = "Geometry";
       this.Paint += new System.Windows.Forms.PaintEventHandler(this.MainForm_Paint);
       ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
       this.ResumeLayout(false);

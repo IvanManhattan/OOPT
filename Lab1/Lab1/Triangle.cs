@@ -81,5 +81,9 @@ namespace Lab1 {
                 }
             }
         }
+
+        public override void CheckCollision() {
+            
+        }
     }
 }

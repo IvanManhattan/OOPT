@@ -31,7 +31,31 @@ namespace Lab1 {
         public sealed override void InitFrame() {
             BorderWidth = Radius << 1;
             BorderHeight = Radius << 1;
+            CheckCollision();
             FrameMainPoint = new Point(MainPoint.X - Radius, MainPoint.Y - Radius);
+        }
+
+        public override void CheckCollision() {
+            if (MainPoint.X + _radius >= MainForm.PictureBoxWidth) {
+                var point = MainPoint;
+                point.X = MainForm.PictureBoxWidth - _radius - BorderThickness / 2;
+                MainPoint = point;
+            }
+            if (MainPoint.Y + _radius >= MainForm.PictureBoxHeight) {
+                var point = MainPoint;
+                point.Y = MainForm.PictureBoxHeight - _radius - BorderThickness / 2;
+                MainPoint = point;
+            }
+            if (MainPoint.X - _radius <= 0) {
+                var point = MainPoint;
+                point.X = 10 + _radius + BorderThickness;
+                MainPoint = point;
+            }
+            if (MainPoint.Y - _radius <= 0) {
+                var point = MainPoint;
+                point.Y = 10 + _radius + BorderThickness;
+                MainPoint = point;
+            }
         }
     }
 }
