@@ -7,7 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14511a90-136f-4a63-9e71-54b7243bfeee" name="Changes" comment="" />
+    <list default="true" id="14511a90-136f-4a63-9e71-54b7243bfeee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Circle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Circle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/DisplayObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/DisplayObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MainForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Triangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Triangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +102,8 @@
       <workItem from="1709310798766" duration="1157000" />
       <workItem from="1709394246472" duration="5835000" />
       <workItem from="1709400552989" duration="329000" />
+      <workItem from="1709477241764" duration="1261000" />
+      <workItem from="1709480935218" duration="304000" />
     </task>
     <servers />
   </component>

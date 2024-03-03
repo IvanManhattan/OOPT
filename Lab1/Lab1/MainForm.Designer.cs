@@ -35,9 +35,10 @@ namespace Lab1
       // 
       // pictureBox1
       // 
-      this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+      this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+      this.pictureBox1.Margin = new System.Windows.Forms.Padding(0);
       this.pictureBox1.Name = "pictureBox1";
-      this.pictureBox1.Size = new System.Drawing.Size(800, 645);
+      this.pictureBox1.Size = new System.Drawing.Size(1170, 600);
       this.pictureBox1.TabIndex = 0;
       this.pictureBox1.TabStop = false;
       this.pictureBox1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
@@ -46,13 +47,14 @@ namespace Lab1
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(800, 800);
+      this.BackColor = System.Drawing.SystemColors.Control;
+      this.ClientSize = new System.Drawing.Size(1194, 865);
       this.Controls.Add(this.pictureBox1);
       this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+      this.Location = new System.Drawing.Point(15, 15);
       this.MaximizeBox = false;
       this.MinimizeBox = false;
       this.Name = "MainForm";
-      this.Text = "Lab1";
       this.Paint += new System.Windows.Forms.PaintEventHandler(this.MainForm_Paint);
       ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
       this.ResumeLayout(false);
