@@ -8,21 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14511a90-136f-4a63-9e71-54b7243bfeee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Circle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Circle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/DisplayObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/DisplayObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Ellipse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Ellipse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MainForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MainForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Rectangle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Square.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Square.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Triangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Triangle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/bin/Debug/Lab1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/obj/Debug/Lab1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Circle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Circle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/DisplayObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/DisplayObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Ellipse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Ellipse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/MainForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Square.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Square.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Triangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Triangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/Lab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/Lab1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/Lab1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1175e77e945b418ebce4dea98d1883fd5b6520/0f/e6b76fbe/Application.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1175e77e945b418ebce4dea98d1883fd5b6520/24/9da66bc0/NativeWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1175e77e945b418ebce4dea98d1883fd5b6520/5e/033d7e95/Control.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1175e77e945b418ebce4dea98d1883fd5b6520/70/67d59a86/PaintEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1175e77e945b418ebce4dea98d1883fd5b6520/f2/23ec12cd/Timer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41914444499f4996a3e6af79cf6c1fdb574b98/d5/fb67ded0/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0f8d183e43847009e4e164aee6d042f91960/1f/d99e0589/Graphics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0f8d183e43847009e4e164aee6d042f91960/7d/5e1133f1/Point.cs" root0="SKIP_HIGHLIGHTING" />
@@ -114,7 +116,9 @@
       <workItem from="1709540371350" duration="1325000" />
       <workItem from="1709543448886" duration="2518000" />
       <workItem from="1710342789091" duration="2036000" />
-      <workItem from="1710593438794" duration="274000" />
+      <workItem from="1710593715872" duration="5756000" />
+      <workItem from="1710609404173" duration="212000" />
+      <workItem from="1710610012654" duration="31000" />
     </task>
     <servers />
   </component>
